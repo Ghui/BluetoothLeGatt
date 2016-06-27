@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<resources>
+    <string name="app_name">BLE Connection</string>
+    <string name="intro_message">
+        <![CDATA[
+        
+            
+            :) :( o.o O.o O>O
+            
+        
+        ]]>
+    </string>
+</resources>

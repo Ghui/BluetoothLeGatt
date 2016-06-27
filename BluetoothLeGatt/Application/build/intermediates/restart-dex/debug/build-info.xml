@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="21"
+    density="xxhdpi"
+    format="7"
+    timestamp="99805459279644"
+    token="-1530982468111782717" >
+
+    <task
+        name="javac"
+        duration="131" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="15" />
+    <task
+        name="verifier"
+        duration="2" />
+
+    <artifact
+        location="C:\Users\MELAB\Desktop\Sample\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+        type="DEX" />
+
+    <build timestamp="98478207046237" >
+        <artifact
+            location="C:\Users\MELAB\Desktop\Sample\BluetoothLeGatt\Application\build\outputs\apk\Application-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="98792412756366" >
+        <artifact
+            location="C:\Users\MELAB\Desktop\Sample\BluetoothLeGatt\Application\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
+    <build timestamp="99805459279644" >
+        <artifact
+            location="C:\Users\MELAB\Desktop\Sample\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
